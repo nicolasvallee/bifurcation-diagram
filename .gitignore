@@ -1,8 +1,8 @@
 .vscode
 __pycache__
-cppversion/*.o
-cppversion/*.d
-cppversion/epidemic-app
-cppversion/.depend
+*.o
+*.d
+bifurcation-app
+.depend
 *.png
 
