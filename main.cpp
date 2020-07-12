@@ -1,7 +1,7 @@
 #include "SFML/Graphics.hpp"
 
-const int PLOT_HEIGHT = 8000;
-const int PLOT_WIDTH = 16000;
+const int PLOT_HEIGHT = 800;
+const int PLOT_WIDTH = 1600;
 
 void makePlot(sf::VertexArray drawing)
 {
